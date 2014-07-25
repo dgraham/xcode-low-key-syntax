@@ -1,0 +1,11 @@
+{
+  "name": "xcode-low-key-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A theme based on Xcode's Low Key palette.",
+  "repository": "https://github.com/dgraham/xcode-low-key-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
