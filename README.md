@@ -1,6 +1,7 @@
 # Xcode Low Key Syntax Theme
 
-An Atom theme using Xcode's Low Key color palette.
+An Atom theme using Xcode's Low Key color palette. There's also a
+[version of this theme](https://github.com/dgraham/xcode-low-key-vim) for Vim.
 
 This theme can be installed in Atom by going to the _Themes_ section in the
 Settings view (`cmd-,`). Then activate it by selecting it from the
