@@ -6,6 +6,6 @@
   "repository": "https://github.com/dgraham/xcode-low-key-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.190.0"
+    "atom": ">1.13.0"
   }
 }
